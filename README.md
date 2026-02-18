@@ -80,6 +80,8 @@ Where:
 
   -  Title → Aimonk_multilabel_problem
 
+   <img width="640" height="480" alt="Image" src="https://github.com/user-attachments/assets/cb2a97c8-6eca-44cf-809b-df4377a10463" />
+
 - Inference Code
 
   -  inference.py
